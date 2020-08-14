@@ -1,6 +1,12 @@
 library(shiny)
 library(dygraphs)
 
+
+####### simon esta parte ####
+"alhdlkajshdljkashdlkjashldjkasd"alksjhdalksjhdlajkshdjaksd
+"jkahsdlkjashkjdasdanskjdalksdhlakjsd
+akjshdkajshdkjahskjda
+####3
 business_page <- fluidPage(
   fluidRow(
     div(class="enc-business",
