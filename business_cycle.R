@@ -1,3 +1,5 @@
+#Comentario semanal. Económico.#Descripción del trabajo de la semana#
+
 library(shiny)
 library(dygraphs)
 
