@@ -1,6 +1,12 @@
 library(shiny)
 library(dygraphs)
 
+
+# Hijo julian
+
+
+
+
 business_page <- fluidPage(
   fluidRow(
     div(class="enc-business",
